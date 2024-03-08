@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "md.cezzare_leana.mind_mastery" // md.cezzare_leana.mind_mastery
+        applicationId = "md.cezzare_leana.mind_mastery"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
