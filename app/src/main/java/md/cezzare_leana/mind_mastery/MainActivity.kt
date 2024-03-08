@@ -8,7 +8,6 @@ import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import md.cezzare_leana.mind_mastery.R
 import java.security.SecureRandom
 
 class MainActivity : AppCompatActivity() {
